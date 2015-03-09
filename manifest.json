@@ -13,7 +13,7 @@
     }],
     "commands": {
         "open-feedbin-link": {
-            "description": "Open Feedbin link in a background tab.",
+            "description": "Opens a Feedbin link in a background tab",
             "suggested_key": {
                 "default": "Alt+V"
             }
